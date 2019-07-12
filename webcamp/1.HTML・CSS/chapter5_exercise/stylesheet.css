@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main1{
+  height: 200px;
+  background-size: cover;
+  background-image: url(img/box1.jpg);
+}
+.main2{
+  height: 200px;
+  background-size: cover;
+  background-image: url(img/box2.jpg);
+}
+.main3{
+  height: 200px;
+  background-size: cover;
+  background-image: url(img/box3.jpg);
+}
+.main4{
+  height: 200px;
+  background-size: cover;
+  background-image: url(img/box4.jpg);
+}
